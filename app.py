@@ -31,18 +31,18 @@ class Handler(BaseHTTPRequestHandler):
             </style>
         </head>
         <body>
-            <h1>🚀 My DevOps Server</h1>
+            <h1>My DevOps Server</h1>
             <div class="card">
-                <h2 class="green">✅ Server is Running!</h2>
+                <h2 class="green">Server is Running!</h2>
                 <p>Deployed using Docker + Jenkins CI/CD Pipeline</p>
             </div>
             <div class="card">
-                <h2 class="yellow">🛠️ Tech Stack</h2>
+                <h2 class="yellow">Tech Stack</h2>
                 <p>Linux | Shell Scripting | Git | Docker | Jenkins</p>
             </div>
             <div class="card">
-                <h2>👨‍💻 Built by Saurabh Maurya</h2>
-                <p>DevOps Engineer in the making 🎯</p>
+                <h2>Built by Saurabh Maurya</h2>
+                <p>DevOps Engineer in the making </p>
             </div>
         </body>
         </html>
